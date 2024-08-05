@@ -1,0 +1,23 @@
+{"Saccos":[
+    {
+    "SaccoName":"",
+    "SaccoLocation":"",
+    "ActiveChairperson":"",
+    "phoneNumber": "",
+    "OperationPeriod": "",
+    "tableData":[
+    {
+        "Id":"",
+        "Name":"",
+        "Phone_Number":"",
+        "Email":"",
+        "Address":"",
+        "Occupation":"",
+        "Gender":"",
+        "Id_NIN":"",
+        "password":""
+        
+    }]
+   
+    }
+]}
